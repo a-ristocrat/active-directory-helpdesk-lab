@@ -89,5 +89,3 @@ lab.local
 ## Scripts
 
 - [`Create-LabUsers.ps1`](scripts/Create-LabUsers.ps1): creates the OU structure, department security groups, and 45 test users with titles and departments.
-
-> All passwords shown in this lab are for an isolated test environment only.
